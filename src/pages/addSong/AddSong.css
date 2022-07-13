@@ -1,0 +1,17 @@
+.inputText {
+    display: flex;
+    /* width: 15%; */
+    /* flex-wrap: nowrap; */
+    flex-direction: column;
+    /* background-color: rgba(254, 254, 254, 0.877); */
+    /* margin-bottom: 20px;
+    padding: 10%; */
+}
+
+.add-song {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
